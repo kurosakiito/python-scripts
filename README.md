@@ -1,2 +1,2 @@
 # python-scripts
-Personal repo from python code.
+Gavin Ho's python scripts
